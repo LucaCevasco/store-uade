@@ -11,30 +11,9 @@ export const Footer = () => {
     <footer className="px-6 py-24 border-t border-solid pointer-events-auto bg-[#0A0A0A] border-[#242424]">
       <nav className="flex flex-wrap justify-around gap-5 mx-auto max-w-screen-2xl">
         <div className="flex flex-col items-center justify-center w-full max-w-xs gap-5">
-          <div className="flex gap-3.5">
-            <Link
-              href="https://portfoliomarcos.com/"
-              target="_blank"
-              title="Portfolio of Marcos"
-            >
-              <svg
-                data-testid="geist-icon"
-                height="24"
-                strokeLinejoin="round"
-                viewBox="0 0 16 16"
-                width="24"
-                style={{ color: "currentColor" }}
-              >
-                <path
-                  fillRule="evenodd"
-                  clipRule="evenodd"
-                  d="M8 1L16 15H0L8 1Z"
-                  fill="currentColor"
-                ></path>
-              </svg>
-            </Link>
+           <div className="flex gap-3.5">
             <span className="flex items-center text-sm text-[#A1A1A1]">
-              © 2023
+              © 2024
             </span>
           </div>
         </div>

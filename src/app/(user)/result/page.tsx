@@ -5,7 +5,7 @@ export async function generateMetadata() {
   return {
     title: "Purchase Result | Uade Ecommerce",
     description:
-      "Result of the purchase in the test ecommerce created by Marcos Cámara",
+      "Result of the purchase in the test ecommerce",
   };
 }
 

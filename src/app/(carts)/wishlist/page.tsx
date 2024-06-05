@@ -9,7 +9,7 @@ import { Loader } from "@/components/common/Loader";
 export async function generateMetadata() {
   return {
     title: "Wishlists | Uade Ecommerce",
-    description: `Wishlists at e-commerce template made by Marcos Cámara`,
+    description: `Wishlists at e-commerce`,
   };
 }
 
