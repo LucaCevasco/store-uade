@@ -87,47 +87,7 @@ export const Footer = () => {
             </li>
           </ul>
         </div>
-        <div className="w-full max-w-xs">
-          <h2 className="my-3 text-sm font-medium">About Marcos</h2>
-          <ul className="grid grid-cols-2">
-            <li className={liStyles}>
-              <Link
-                href="https://portfoliomarcos.com/"
-                target="_blank"
-                className={linkStyles}
-              >
-                Portfolio
-              </Link>
-            </li>
-            <li className={liStyles}>
-              <Link
-                href="https://www.linkedin.com/in/marcospenelascamara/"
-                target="_blank"
-                className={linkStyles}
-              >
-                LinkedIn
-              </Link>
-            </li>
-            <li className={liStyles}>
-              <Link
-                href="https://github.com/MarcosCamara01"
-                target="_blank"
-                className={linkStyles}
-              >
-                GitHub
-              </Link>
-            </li>
-            <li className={liStyles}>
-              <Link
-                href="https://medium.com/@marcoscamara"
-                target="_blank"
-                className={linkStyles}
-              >
-                Medium
-              </Link>
-            </li>
-          </ul>
-        </div>
+    
       </nav>
     </footer>
   );
