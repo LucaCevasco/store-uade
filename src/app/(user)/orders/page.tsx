@@ -9,7 +9,7 @@ import { authOptions } from "@/libs/auth";
 
 export async function generateMetadata() {
   return {
-    title: `Orders | Ecommerce Template`,
+    title: `Ordenes | Uade Ecommerce`,
   };
 }
 

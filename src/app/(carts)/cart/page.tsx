@@ -22,7 +22,7 @@ const ButtonCheckout = dynamic(
 
 export async function generateMetadata() {
   return {
-    title: "Cart | Ecommerce Template",
+    title: "Carro | Uade Ecommerce",
     description: `Cart at e-commerce template made by Marcos Cámara`,
   };
 }

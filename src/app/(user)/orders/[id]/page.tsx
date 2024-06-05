@@ -8,7 +8,7 @@ import { EnrichedProducts } from "@/types/types";
 
 export async function generateMetadata() {
   return {
-    title: `Order Details | Ecommerce Template`,
+    title: `Order Details | Uade Ecommerce`,
   };
 }
 
