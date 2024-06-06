@@ -40,7 +40,7 @@ export function LinksDesktop() {
               </ListItem>
               <ListItem href="/Accesorios" title="Accesorios">
               </ListItem>
-              <ListItem href="/Cweatshirts" title="Calzado">
+              <ListItem href="/Calzado" title="Calzado">
               </ListItem>
             </ul>
           </NavigationMenuContent>
