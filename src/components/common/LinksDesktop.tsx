@@ -36,19 +36,11 @@ export function LinksDesktop() {
                   </Link>
                 </NavigationMenuLink>
               </li>
-              <ListItem href="/t-shirts" title="T-SHIRTS">
-                Our men&apos;s T-shirts offer timeless style in a range of
-                designs, colors, and textures. From classic to contemporary,
-                find the perfect tee for any occasion.
+              <ListItem href="/Abrigo" title="Abrigos">
               </ListItem>
-              <ListItem href="/pants" title="PANTS">
-                Explore essential men&apos;s pants for all occasions. From
-                classic chinos to modern joggers, find your perfect fit in a
-                variety of styles and colors.
+              <ListItem href="/Accesorios" title="Accesorios">
               </ListItem>
-              <ListItem href="/sweatshirts" title="SWEATSHIRTS">
-                Much like the T-shirt, men&apos;s sweatshirts are far more than
-                a basic.
+              <ListItem href="/Cweatshirts" title="Calzado">
               </ListItem>
             </ul>
           </NavigationMenuContent>
