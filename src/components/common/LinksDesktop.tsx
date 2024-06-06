@@ -24,7 +24,7 @@ export function LinksDesktop() {
               <li className="row-span-3">
                 <NavigationMenuLink asChild>
                   <Link
-                    className="flex flex-col justify-end w-full h-full p-6 no-underline rounded-md outline-none select-none from-muted/50 to-muted focus:shadow-md bg-center bg-[url('/main_image.jpeg')]"
+                    className="flex flex-col justify-end w-full h-full p-6 no-underline rounded-md outline-none select-none from-muted/50 to-muted focus:shadow-md bg-contain bg-[url('/main_image.jpeg')]"
                     href="/"
                   >
                     <div className="mt-4 mb-1 text-sm font-medium">
