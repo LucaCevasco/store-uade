@@ -80,7 +80,7 @@ const Orders = async () => {
               "dd LLL yyyy"
             )} | ${(order.total_price / 100).toFixed(
               2
-            )}€ | Items: ${order.products.reduce(
+            )}$ | Items: ${order.products.reduce(
               (total, product) => total + product.quantity,
               0
             )} `}</h4>

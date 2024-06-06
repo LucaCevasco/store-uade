@@ -23,7 +23,7 @@ export const SingleProduct = ({ product, session }: SingleProduct) => {
   );
 
   if (!product) {
-    return <div>Produnct not found</div>;
+    return <div>Product not found</div>;
   }
 
   return (
@@ -41,7 +41,7 @@ export const SingleProduct = ({ product, session }: SingleProduct) => {
             <h1 className="text-base font-semibold">
               {productPlainObject.name}
             </h1>
-            <span className="text-sm">{productPlainObject.price}€</span>
+            <span className="text-sm">{productPlainObject.price}$</span>
             <p className="text-sm">{productPlainObject.description}</p>
           </div>
 
